@@ -1,0 +1,14 @@
+institucion
+
+primer commit del archivo colegio.txt
+
+
+primer commit del archivo micolegio.txt
+esta es una modificacion del archivo micolegio.txt desde la rama departame
+primer commit del archivo colegio.txt
+En esta linea se creo una rama llamada area y se agrega el primer commit hash con el que se inicio todo
+tratare de hacer un merge desde aqui entre main y departamento
+
+
+
+
